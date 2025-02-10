@@ -1,3 +1,8 @@
+-=(GenMidi_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 ![](https://github.com/modalmodule/GenMidi_MiSTer/blob/main/GenMidiscreenie.png)
 # GenMidi core for [MiSTer FPGA](https://mister-devel.github.io/MkDocs_MiSTer/)
 
